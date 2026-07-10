@@ -1,4 +1,4 @@
-const CACHE = 'lakshmi-dlr-v12';
+const CACHE = 'lakshmi-dlr-v13';
 
 self.addEventListener('install', e=>{ self.skipWaiting(); });
 
