@@ -1,4 +1,4 @@
-const CACHE = 'sitepulse-v3';
+const CACHE = 'sitepulse-v4';
 
 self.addEventListener('install', e=>{ self.skipWaiting(); });
 
