@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.mailtolakshmibuilders1_lab.twa",
+    "sha256_cert_fingerprints": ["DA:02:BB:38:96:09:16:94:54:BB:20:A4:FB:E4:B5:06:E0:1B:49:48:F0:CB:37:01:EE:50:3D:AA:C1:31:9A:5C"]
+  }
+}]
